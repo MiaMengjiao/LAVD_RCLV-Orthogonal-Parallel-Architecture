@@ -8,6 +8,10 @@ Orthogonal parallel detection of global rotationally coherent Lagrangian vortice
 ## 4. Extract CPU-based parallel RCLV in Algorithm 2: RCLV_start.py and *i4_eddy_detect_core.py (non-open source)
 
 NOTE: It is mostly being used internally by our group and is still under development.
+
+When using this code, please cite the following source for the underlying theory:
+
+Tian, Fenglin, Mengjiao Wang, Xiao Liu, Qiu He, and Ge Chen. (2022). SLA-based orthogonal parallel detection of global rotationally coherent Lagrangian vortices. Journal of Atmospheric and Oceanic Technology, 39(6), 823–836, https://doi.org/10.1175/JTECH-D-21-0103.1.
 ---------------------------------------
 @author: Mengjiao Wang
 
